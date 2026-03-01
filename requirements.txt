@@ -2,3 +2,7 @@ fastapi
 uvicorn
 openai
 python-multipart
+pdfplumber
+git add .
+git commit -m "agregar lectura pdf"
+git push
