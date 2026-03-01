@@ -69,4 +69,5 @@ async def analizar_factura(file: UploadFile = File(...)):
         "precio_real_kwh": precio_real,
         "energy_score": score
     }
-    }
+    
+
